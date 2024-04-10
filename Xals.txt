@@ -1,0 +1,12 @@
+title:Xals
+
+// Edge Transit (pve)
+//notes: tags:pve
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919,2489430594
+
+
+// Edge Transit (pvp)
+//notes: tags:pvp
+dimwishlist:item=2228325504&perks=1478423395,2822142346,951095735,3194351027
+
+
